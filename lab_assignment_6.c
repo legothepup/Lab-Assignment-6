@@ -1,3 +1,8 @@
+//Aidan Huggins
+//Prof Torosdagli
+//COP3502
+//Lab Assignment 6
+
 #include <stdio.h>
 #include <stdlib.h>
 
